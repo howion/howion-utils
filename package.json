@@ -1,0 +1,32 @@
+{
+    "name": "howion-utils",
+    "type": "module",
+    "version": "0.7.0",
+    "keywords": [
+        "howion",
+        "utils"
+    ],
+    "description": "A collection of utility functions used by me: howion",
+    "author": {
+        "name": "howion",
+        "email": "me@howion.com",
+        "url": "https://howion.com"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/howion/howion-utils"
+    },
+    "bugs": {
+        "url": "https://github.com/howion/howion-utils/issues"
+      },
+    "devDependencies": {
+        "@types/bun": "latest"
+    },
+    "peerDependencies": {
+        "typescript": "^5.0.0"
+    },
+    "dependencies": {
+        "js-base64": "^3.7.7"
+    }
+}
